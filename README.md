@@ -1,3 +1,12 @@
+## Discussion by Student
+This repo contains the eight required files:
+  * plot1.png and plot1.R
+  * plot2.png and plot2.R
+  * plot3.png and plot3.R
+  * plot4.png and plot4.R
+  
+The remainder of this README file is the original text that came with the forked repo.
+
 ## Introduction
 
 This assignment uses data from
